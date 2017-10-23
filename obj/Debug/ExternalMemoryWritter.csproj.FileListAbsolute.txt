@@ -1,0 +1,9 @@
+c:\users\laptop\documents\visual studio 2015\Projects\ExternalMemoryWritter\ExternalMemoryWritter\bin\Debug\ExternalMemoryWritter.exe.config
+c:\users\laptop\documents\visual studio 2015\Projects\ExternalMemoryWritter\ExternalMemoryWritter\obj\Debug\ExternalMemoryWritter.csprojResolveAssemblyReference.cache
+c:\users\laptop\documents\visual studio 2015\Projects\ExternalMemoryWritter\ExternalMemoryWritter\obj\Debug\ExternalMemoryWritter.Form1.resources
+c:\users\laptop\documents\visual studio 2015\Projects\ExternalMemoryWritter\ExternalMemoryWritter\obj\Debug\ExternalMemoryWritter.Properties.Resources.resources
+c:\users\laptop\documents\visual studio 2015\Projects\ExternalMemoryWritter\ExternalMemoryWritter\obj\Debug\ExternalMemoryWritter.csproj.GenerateResource.Cache
+c:\users\laptop\documents\visual studio 2015\Projects\ExternalMemoryWritter\ExternalMemoryWritter\bin\Debug\ExternalMemoryWritter.exe
+c:\users\laptop\documents\visual studio 2015\Projects\ExternalMemoryWritter\ExternalMemoryWritter\bin\Debug\ExternalMemoryWritter.pdb
+c:\users\laptop\documents\visual studio 2015\Projects\ExternalMemoryWritter\ExternalMemoryWritter\obj\Debug\ExternalMemoryWritter.exe
+c:\users\laptop\documents\visual studio 2015\Projects\ExternalMemoryWritter\ExternalMemoryWritter\obj\Debug\ExternalMemoryWritter.pdb
